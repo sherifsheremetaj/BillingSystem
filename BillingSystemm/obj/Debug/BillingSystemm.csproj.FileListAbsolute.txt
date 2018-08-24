@@ -1,0 +1,33 @@
+c:\users\sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form1.resources
+c:\users\sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Properties.Resources.resources
+c:\users\sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.csproj.GenerateResource.Cache
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\MySql.Data.DLL
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form2.resources
+C:\Users\Sherif\Documents\Visual Studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form3.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form4.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form6.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form5.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form7.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Sistemi Faturimit.exe.config
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Sistemi Faturimit.exe.manifest
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Sistemi Faturimit.application
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Sistemi Faturimit.exe
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\Sistemi Faturimit.pdb
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form8.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\Sistemi Faturimit.TrustInfo.xml
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\Sistemi Faturimit.exe.manifest
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\Sistemi Faturimit.application
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\Sistemi Faturimit.exe
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\Sistemi Faturimit.pdb
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form9.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form10.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\itextsharp.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\itextsharp.xtra.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\bin\Debug\itextsharp.xml
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form11.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form12.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form13.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\BillingSystemm\BillingSystemm\obj\Debug\BillingSystemm.Form14.resources

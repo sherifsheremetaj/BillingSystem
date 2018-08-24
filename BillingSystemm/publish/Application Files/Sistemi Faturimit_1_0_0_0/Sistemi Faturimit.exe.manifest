@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sistemi Faturimit.exe" version="1.0.0.0" publicKeyToken="4d324e679a276f22" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ikona.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sistemi Faturimit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sistemi Faturimit.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.52.dll" size="225792">
+      <assemblyIdentity name="Bunifu_UI_v1.52" version="1.3.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>J8jOp+eTrOc3QViBpcFrTi2YzkZgnScugsbJBa0tnzY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.DLL" size="315392">
+      <assemblyIdentity name="MySql.Data" version="6.1.0.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yfE1c2U9Lqqh0u06VdRZ0RUs1IjqkhO/t6rHa04kxZ8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistemi Faturimit.exe" size="186368">
+      <assemblyIdentity name="Sistemi Faturimit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>JOpLwMRij1ZB1I+mSw7Uvs/PbLB5HaD6h/jiTcO4PaI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1493657360_Money-Graph.ico" size="106794">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2iBoogTLAmhC2dEWIc3WPeWb30tiiNDQcLSr4MUzQbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ikona.ico" size="106794">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2iBoogTLAmhC2dEWIc3WPeWb30tiiNDQcLSr4MUzQbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ikona.ico.ico" size="106794">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2iBoogTLAmhC2dEWIc3WPeWb30tiiNDQcLSr4MUzQbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sistemi Faturimit.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=SHERIFSHEREMETA\Sherif" issuerKeyHash="64e8cfe17569e826d2c3384dce29214ef12323c0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>I+I0Omyw6DDbYHHW9VnFeoc5KiWslbgZvekRQBowRm8=</DigestValue></Reference></SignedInfo><SignatureValue>cDBFZ4g4OYs4s4P3/uK4PI0K74nmVZWdSYR2z7DzaJbSq07hwpzlngXeSvM4tTEO2tdIyrGkt+/bX/V+tpjOrJUM0JFkPvTAnY5vlg/Trj4MJajQ3RvRQAC5wZfOS6Vegqv6tIsOArsjlJpcx7Vt8qfDaONvHSwctsZ34Nph/2w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tdNpD7TUYlEjTTqVOdTUC4ndmYY9+QqDAH0Dd3FIgVxRzTsMw2tzUb5MvQWoNTWuXHHLHFZ7ZpyD91qbNpYtmCc2S373m83HVJLCcykP5MbygAp7IteuOjKjLk6wl0Z1B4nFP+P07MX1NebhE2ZQk6Vnj3HIzX1AT35JF1K+mNM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6f46301a4011e9bd19b895ac252a39877ac559f5d67160db30e8b06c3a34e223" Description="" Url=""><as:assemblyIdentity name="Sistemi Faturimit.exe" version="1.0.0.0" publicKeyToken="4d324e679a276f22" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SHERIFSHEREMETA\Sherif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vhRf+ip+5chofft8EJshx5FEXDkaQoEZXk/fLM50vfM=</DigestValue></Reference></SignedInfo><SignatureValue>QgyPmJNgoOTSZiFyvugQTU+8cIzC+5Wq2sax5odVsVJGynZ0SNaRaOr6WkRNMTeSwVYAngH3SaJSUcpI2yCkshoMDc6Xroahl6QDERFcpaXPG+yjYiea66pwpOWsSD9mirRs2Ics8R5TqxqnY4Ogrc8kgy3cn05DpeBMIRGUT5Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tdNpD7TUYlEjTTqVOdTUC4ndmYY9+QqDAH0Dd3FIgVxRzTsMw2tzUb5MvQWoNTWuXHHLHFZ7ZpyD91qbNpYtmCc2S373m83HVJLCcykP5MbygAp7IteuOjKjLk6wl0Z1B4nFP+P07MX1NebhE2ZQk6Vnj3HIzX1AT35JF1K+mNM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQF8eSt/Svb5FCZl626KcESDANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwAUwBIAEUAUgBJAEYAUwBIAEUAUgBFAE0ARQBUAEEAXABTAGgAZQByAGkAZjAeFw0xNzA1MDExMTUxMzZaFw0xODA1MDExNzUxMzZaMDcxNTAzBgNVBAMeLABTAEgARQBSAEkARgBTAEgARQBSAEUATQBFAFQAQQBcAFMAaABlAHIAaQBmMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC102kPtNRiUSNNOpU51NQLid2Zhj35CoMAfQN3cUiBXFHNOwzDa3NRvky9Bag1Na5cccscVntmnIP3Wps2li2YJzZLfvebzcdUksJzKQ/kxvKACnsi1646MqMuTrCXRnUHicU/4/TsxfU15uETZlCTpWePccjNfUBPfkkXUr6Y0wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAB72hHsbY2w7KY0YGkMphh1+GIp+bM2hQPrN3x5nTjEZUC72SjA7k1qUdDcfOlhKPxsAIQRVie1bPJ3UchRj1rGCkWQItSOtnUKdxxD5/rp/oOhs7m0M4EOVlU9LbocxBj1D4dqJJwUEWXJrOIkMzvr4r+5jauAL8UGen54EWXW/</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
